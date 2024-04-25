@@ -1,0 +1,4 @@
+open-port-venv/
+__pycache__/
+.azure/
+.vscode/
